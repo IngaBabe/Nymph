@@ -33,5 +33,4 @@ class String
 end
 
 puts 'red with white BG'.red.white_bg
-puts 'word'
 sleep 10
