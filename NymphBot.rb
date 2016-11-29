@@ -14,5 +14,4 @@ if File.file?('Wings/Rainboow.rb')
 else
   puts error + 'Colour Wing \'Rainbow\' not found. Please download \'Wings/Rainbow\' from :https://github.com/IngaBabe/Nymph:'
 end
-
 gets
